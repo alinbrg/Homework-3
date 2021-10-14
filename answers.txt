@@ -1,0 +1,11 @@
+1.https://www.google.com/ გვერდისთვის როგორ მიწვდებოდით სერჩის ინფუთს
+
+data-ved="0ahUKEwj3ufPL1MnzAhXZWM0KHaAuD8cQ39UDCAQ"
+
+2.https://www.google.com/ გვერდისთვის როგორ მიწვდებოდით მითითებულ ღილაკს
+
+data-ved="0ahUKEwj8jvmG1cnzAhVDBs0KHXxnBB4Q4dUDCAs"
+
+3.https://www.google.com/ გვერდზე მითითებული image ლინკისთვის დააკოპირეთ xpath
+
+//*[@id="gb"]/div/div[1]/div/div[2]/a
